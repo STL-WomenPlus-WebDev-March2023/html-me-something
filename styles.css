@@ -1,1 +1,11 @@
 /* Write your CSS here! */
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+h1, h3 {
+    font-family: "Loos", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
