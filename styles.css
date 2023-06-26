@@ -9,7 +9,7 @@ h1, h3 {
 }
 
 img {
-    max-width: 75%;
-    height: auto;
+    height: 200;
+    width: auto;
     margin: 0;
 }
